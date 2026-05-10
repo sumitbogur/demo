@@ -1,4 +1,4 @@
 # demo
 My first GIT Repository.
 <br>
-Author - Sumit Bogur
+Author - Sumit 
